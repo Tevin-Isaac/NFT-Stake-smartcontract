@@ -1,8 +1,10 @@
+## NFT STAKING SMART CONTRACT
 This system will consist of 3 contracts:
 
-An Erc20 token will be the reward token.
-An Erc721 will be the nft token.
-The staking contract will hold the staked nft and will allow claiming the rewards.
+
+* An Erc20 token will be the reward token.
+* An Erc721 will be the nft token.
+* The staking contract will hold the staked nft and will allow claiming the rewards.
 
 
 
